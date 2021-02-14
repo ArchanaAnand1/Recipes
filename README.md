@@ -1,1 +1,1 @@
-workig on branch - namrbranch
+Edited git new branch
